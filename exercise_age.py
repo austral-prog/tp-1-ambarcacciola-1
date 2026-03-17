@@ -13,3 +13,7 @@ def age():
     edad_dias = 365 * edad_anos
     edad_horas = 24 * 365 * edad_anos
     edad_minutos = 60 * 24 * 365 * edad_anos
+    print(edad_meses)
+    print(edad_dias)
+    print(edad_horas)
+    print(edad_minutos)
